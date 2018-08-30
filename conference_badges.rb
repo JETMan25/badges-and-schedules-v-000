@@ -25,4 +25,5 @@ def printer(attendees)
       puts assignment
     end
   end
+ end
 # Write your code here.
